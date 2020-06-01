@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#.gitignore文件必须放在存储库的根目录
 
 # dependencies
 /part1/node_modules
