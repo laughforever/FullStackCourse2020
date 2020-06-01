@@ -16,7 +16,7 @@ const Header = (props) => (
 const Content = (props) => (
   <div>
     <p>
-      课程Part1：{props.name},练习题有{props.num}个。
+      课程：{props.name},练习题有{props.num}个。
     </p>
   </div>
 )
