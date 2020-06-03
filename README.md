@@ -80,5 +80,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-[part\part1.md#part1a]: 
-[part1a]: 
+
+
