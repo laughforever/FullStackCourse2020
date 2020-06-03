@@ -5,7 +5,7 @@ ___
 
 ## part1
 - [React简介](.\part1\part1.md\#a)
-- <a herf="part1\part1.md\#a">React简介</a>
+- <a href="part1\part1.md\#a">React简介</a>
 - <a href="part1\part1.md\#b">Javascript</a>
 - [Javascript](.\part1\part1.md\#b)
 
