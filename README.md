@@ -4,8 +4,9 @@ https://fullstackopen.com/zh/
 ___
 
 ## part1
-- <a href="part1\part1.md\#part1a">React简介</a>
-- <a href="part1\part1.md\#part1a">React简介</a>
+- [React简介](part1\part1.md\#a)
+- <a href="part1\part1.md\#b">Javascript</a>
+- [Javascript](part1\part1.md\#b)
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,3 +78,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+
+
+[part\part1.md#part1a]: 
+[part1a]: 
