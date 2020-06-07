@@ -213,3 +213,6 @@ const result = average(2, 5)
 // result is now 3.5
 ```
 
+#### 对象方法以及“this”关键字 Object methods and "this"
+
+
